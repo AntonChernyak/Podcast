@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Podcast</string>
+    <string name="channel_name">playerChannel</string>
+</resources>
